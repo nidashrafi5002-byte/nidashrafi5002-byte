@@ -32,18 +32,8 @@ A voice/communication-focused AI project with a human-centered experience.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
-
-![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidashrafi5002-byte&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidashrafi5002-byte&layout=compact&theme=radical)
-
-## Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidashrafi5002-byte&theme=react-dark)
-
 ## Connect With Me
-- [LinkedIn](https://linkedin.com/in/nidaashrafi-)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/nida-ashrafi)
 - [Email](mailto:nidashrafi5002@gmail.com)
 
 <p align="center">
